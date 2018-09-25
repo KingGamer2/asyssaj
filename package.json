@@ -6,9 +6,6 @@
     "scripts": {
       "start": "node bot.js"
     },
- {
-   "stack": "heroku-16"
-}
     "repository": {
       "type": "git",
       "url": "git://github.com/then/fs.git"
