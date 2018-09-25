@@ -136,7 +136,6 @@ client.on('message', message => {
   
      client.on("message", message => {
       if (message.content === "!help-a") {
-      if (message.content === "!help-a") {
        const embed = new Discord.RichEmbed() 
            .setThumbnail(message.author.avatarURL)
            .setColor("#FF0000")
